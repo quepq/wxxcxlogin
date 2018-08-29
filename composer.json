@@ -1,0 +1,8 @@
+{
+  "name": "quepq/wechat-applet-login",
+  "autoload": {
+    "psr-4": {
+      "Yurun\\ComposerPackageDemo\\": "src/"
+    }
+  }
+}
