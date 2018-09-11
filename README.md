@@ -19,6 +19,7 @@ php artisan vendor:publish --tag=wxxcx
 
 
 use quepq\wxxcx\wxxcx;
+
 class wxxcxController extends Controller
 {
     protected $wxxcx;
