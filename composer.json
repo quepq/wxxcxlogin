@@ -1,8 +1,21 @@
 {
-  "name": "quepq/wechat-applet-login",
+  "name": "quepq/wxxcx",
+  "description": "A WeChat applet  plugins for Laravel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "quepq",
+      "email": "dzphquepq@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "~5"
+  },
   "autoload": {
     "psr-4": {
-      "Yurun\\ComposerPackageDemo\\": "src/"
+      "quepq\\wxxcxlogin\\": "src/"
     }
   }
 }
